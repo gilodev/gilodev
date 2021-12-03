@@ -1,4 +1,4 @@
-### Hello World, Je suis Gilles Trésor👋 - aka Le laiteux🤣
+### Hello World, Je suis Gilles Trésor👋
 
 ## Dreamer | Maker | Orange Corners Ambassador | Web & Mobile developer. Passionate about volunteering
 
