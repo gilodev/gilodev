@@ -2,9 +2,9 @@
 
 ## Dreamer | Maker | Web & Mobile developer. Passionate about volunteering
 
-- 🌱 Je creuse beaucoup actuellement sur l'entrepreneuriat
+- 🌱 Passionné par la transformation digitale, la finance de marché et l'entrepreneuriat,
 - 👯 Je suis Open à collaborer avec d'autres TechMakers sur des projets Extra-Ordinaires
-- 🥅 Objectifs 2022: Devenir MongoDB et NodeJS Developer Certified
+- 🥅 Objectifs: Devenir MongoDB et NodeJS Developer Certified
 - 🔭 Hobbies: J'aime jouer au Maracana(Football), écouter de la musique et parcourir la blogsphère 🔭
 
 ### On reste en contact:
